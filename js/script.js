@@ -9,3 +9,8 @@ let mylibraryFunction;
 'Welcome!';
 true;
 null;
+//step 3
+let varExpression1 = 2 * (40 / 8) + 5;
+let varExpression2 = 3 + (8 % 2) - 1;
+console.log("varExpression1:= "+varExpression1);
+console.log("varExpression2:= "+varExpression2);
