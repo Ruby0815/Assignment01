@@ -36,3 +36,7 @@ let $firstName, $lastName, $yourAge;
 strFirstName = "Mary";
 strLastName = "Smith";
 intYourAge = 50;
+//step 6
+let classJoining;
+classJoining = 2; 
+console.log("I joined for "+classJoining+" year");
