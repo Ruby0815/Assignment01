@@ -110,3 +110,8 @@ console.log("The sum of x and y: = ", x+y);
 x = 20;
 x += 20
 window.console.log("Result of step 18: = " +x);
+
+//step 19
+x = 20;
+x *= 5;
+window.console.log("Result of step 19: = "+x);
