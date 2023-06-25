@@ -76,4 +76,8 @@ console.log("Type of variable und: "+typeof(und));//undefined
 //step 11
 var name1="Zak Ruvalcaba";
 alert("Hello "+ name1 + " , welcome to the JavaScript class!");
+//step 12
+let userName="Ruby Verma";
+
+alert("Hello "+ userName +", welcome to the JavaScript class!");
 
