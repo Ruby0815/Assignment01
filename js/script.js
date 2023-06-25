@@ -80,8 +80,11 @@ alert("Hello "+ name1 + " , welcome to the JavaScript class!");
 let userName="Ruby Verma";
 
 alert("Hello "+ userName +", welcome to the JavaScript class!");
+
 //step 13
 let course;
 course = "javascript" ;
 alert("I am taking "+course+" course");
 
+//step 14
+alert("Hello" + " Zak Ruvalcaba" + "."+ "\n" + "Welcome to the JavaScript class!");
