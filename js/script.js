@@ -61,3 +61,15 @@ a=null;
 console.log("a = " +a);
 let b;
 console.log("b = " +b);
+
+//step 10
+let str="abcd";
+console.log("Type of variable str: "+typeof(str))//string
+let num=11;
+console.log("Type of variable num: "+typeof(num))//number
+let bool=false
+console.log("Type of variable bool: "+typeof(bool))//boolean
+let obj={};
+console.log("Type of variable obj: "+typeof(obj)); //object
+let und;
+console.log("Type of variable und: "+typeof(und));//undefined
