@@ -98,3 +98,10 @@ alert("My name: "+ $name);
 let $course;
 $course = prompt("Which class you are taking?");
 alert("My class: "+ $course);
+
+//step 17
+let x;
+x = 10;
+let y;
+y = 20;
+console.log("The sum of x and y: = ", x+y);
