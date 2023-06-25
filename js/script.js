@@ -88,3 +88,8 @@ alert("I am taking "+course+" course");
 
 //step 14
 alert("Hello" + " Zak Ruvalcaba" + "."+ "\n" + "Welcome to the JavaScript class!");
+
+//step 15
+let $name;
+$name=prompt("Enter your name");
+alert("My name: "+ $name);
