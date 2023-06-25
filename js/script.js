@@ -120,3 +120,8 @@ window.console.log("Result of step 19: = "+x);
 x=20%3;
 x/=1;
 window.console.log("Result of Step 20: = "+x)
+
+//step 21
+let a1=10;
+let b1=20;
+window.console.log(a1==10 || b1==20)
