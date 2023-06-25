@@ -125,3 +125,8 @@ window.console.log("Result of Step 20: = "+x)
 let a1=10;
 let b1=20;
 window.console.log(a1==10 || b1==20)
+
+//step 22
+let a2 = 5;
+let b2 = 10;
+window.console.log((a2==5 && b2==5))
