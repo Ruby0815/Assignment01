@@ -48,3 +48,6 @@ var1 = true +" hello " ;//Boolean is coerced to a string
 console.log(var1)
 var2 = 2 + false;//Boolean is coerced to a  number
 console.log(var2)
+//step 8
+let someString = "Who once said,'Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.'";
+window.console.log(someString);
