@@ -73,3 +73,7 @@ let obj={};
 console.log("Type of variable obj: "+typeof(obj)); //object
 let und;
 console.log("Type of variable und: "+typeof(und));//undefined
+//step 11
+var name1="Zak Ruvalcaba";
+alert("Hello "+ name1 + " , welcome to the JavaScript class!");
+
