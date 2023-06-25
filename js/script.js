@@ -105,3 +105,8 @@ x = 10;
 let y;
 y = 20;
 console.log("The sum of x and y: = ", x+y);
+
+//step 18
+x = 20;
+x += 20
+window.console.log("Result of step 18: = " +x);
