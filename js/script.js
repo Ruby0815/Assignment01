@@ -115,3 +115,8 @@ window.console.log("Result of step 18: = " +x);
 x = 20;
 x *= 5;
 window.console.log("Result of step 19: = "+x);
+
+//step 20
+x=20%3;
+x/=1;
+window.console.log("Result of Step 20: = "+x)
