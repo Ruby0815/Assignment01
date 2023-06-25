@@ -24,3 +24,15 @@ let strFirstName;
  let intYourAge;
  let strRefSource;
  let boolMayWeContactYou;
+//step 5
+//option 1  
+let strfirstName = "John";
+let strlastName = "Smith";
+let intyourAge = 30
+//option 2
+let firstName = "Rakhi",lastName = "Verma",yourAge = 40;
+//option 3
+let $firstName, $lastName, $yourAge;
+strFirstName = "Mary";
+strLastName = "Smith";
+intYourAge = 50;
