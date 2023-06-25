@@ -93,3 +93,8 @@ alert("Hello" + " Zak Ruvalcaba" + "."+ "\n" + "Welcome to the JavaScript class!
 let $name;
 $name=prompt("Enter your name");
 alert("My name: "+ $name);
+
+//step 16
+let $course;
+$course = prompt("Which class you are taking?");
+alert("My class: "+ $course);
